@@ -10,3 +10,4 @@ function isPrime(n){
     return true;
 }
 console.log(isPrime(15));
+console.log(isPrime(17));
